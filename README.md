@@ -17,7 +17,7 @@ The first thing to do is prepare a Mongo database using this template:
    ![image](https://github.com/gocroot/alwaysdata/assets/11188109/fd785700-7347-4f4b-b3b9-34816fc7bc53)  
    ![image](https://github.com/gocroot/alwaysdata/assets/11188109/ef236b4d-f8f9-42c6-91ff-f6a7d83be4fc)  
 
-## Folder Structure
+## Folder Structure lah
 
 This boilerplate has several folders with different functions, such as:
 
